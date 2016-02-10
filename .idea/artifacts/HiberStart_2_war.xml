@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HiberStart-2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HiberStart-1-2.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HiberStart-2:war exploded" />
+    </root>
+  </artifact>
+</component>
